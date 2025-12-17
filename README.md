@@ -54,9 +54,12 @@
 
 ## Output:
 
+<img width="1089" height="527" alt="image" src="https://github.com/user-attachments/assets/1ada5065-8292-437b-9a19-91c5a7409c92" />
 
-### Name:
-### Register Number: 
+
+
+### Name:Maatheshwar B
+### Register Number: 25017484
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
